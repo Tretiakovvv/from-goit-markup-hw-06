@@ -784,7 +784,7 @@ cursor: pointer;
 
 .footer-thumb {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
 
 .social {
